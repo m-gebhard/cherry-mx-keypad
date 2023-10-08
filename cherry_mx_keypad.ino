@@ -10,14 +10,9 @@
   to the FIRST_BUTTON_PIN + i pins, e.g: FIRST_BUTTON_PIN: D2 = SW1: D2, SW2: D3, SW3: D4,..
   Color, led mode and brightness can be switched by pressing 2/3 keys at the same time, change pins if needed.
   
-
-  Shematic + PCB:
-  tbd
-
-
   created by Marius Gebhard
-  https://mgebhard.ddns.net/
-  https://github.com/m-gebhard/
+  https://m-gebhard.dev
+  https://github.com/m-gebhard
 
 */
 
@@ -267,4 +262,3 @@ void doMover()
         hasColorUpdated = false;
     }
 }
-
